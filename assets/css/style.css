@@ -16,13 +16,14 @@ body {
     padding: 30px;
     background-color: white;
     border: #cccccc;
+    
 }
 .name {
     float: left;
     padding: 5px; 
     color: white;
     font-size: 50px;
-    margin-top: -40px;
+    margin-top: -39px;
     background-color: #4aaaa5;
 }
 li {
@@ -37,7 +38,7 @@ li a {
     float: left;
     padding: 60px;
     width: 80%;
-    margin-left: 80px;
+    margin-left: 90px;
     Height: 500px;
 }
 .aboutme {
