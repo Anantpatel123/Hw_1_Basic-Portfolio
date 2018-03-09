@@ -36,17 +36,19 @@ li a {
     background-color: #ffffff;
     float: left;
     padding: 60px;
-    width: 100%;
+    width: 80%;
+    margin-left: 80px;
     Height: 500px;
 }
 .aboutme {
     float: left;
-    font-size: 24px;
+    font-size: 48px;
+    color: #4aaaa5;
     margin-top: -60px;
 }
 .img {
-    float: left;
-    width: 70%;
+    /* float: left; */
+    width: 50%;
 }
 p {
     float: left;
