@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+body {
+    /* margin: 10px;     */
+    width: 960px;
+    padding: 0;
+    background-color: #4aaaa5;
+}
+/* header {    
+    float: left;
+    background-color: yellow;
+} */
+.mainheader {  
+    padding: 30px;
+    background-color: white;
+    border: #cccccc;
+}
+.name {
+    float: left;
+    padding: 5px; 
+    color: white;
+    font-size: 50px;
+    margin-top: -40px;
+    background-color: #4aaaa5;
+}
+li {
+    float: right;
+    list-style-type: none;
+}
+li a {
+    padding: 14px 16px;
+}
+.mydetails {
+    background-color: #ffffff;
+    float: left;
+    padding: 60px;
+    width: 100%;
+    Height: 500px;
+}
+.aboutme {
+    float: left;
+    font-size: 24px;
+    margin-top: -60px;
+}
+.img {
+    float: left;
+    width: 70%;
+}
+p {
+    float: left;
+    width: 30%;
+}
+.footer {
+    background-color: #666666;
+    text-align: center;
+    padding: 20px;
+    margin-top: 522px;    
+}
